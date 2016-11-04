@@ -22,5 +22,5 @@ RUN mkdir ~/.m2 && echo -e '\
     </mirror>\n\
   </mirrors>\n\
 </settings>\
-' > ~/.m2/setting.xml
+' > ~/.m2/settings.xml
 
